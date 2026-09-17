@@ -168,7 +168,7 @@ AI 语音助手通过 PH2.0 串口与外部 MCU（如 Arduino）通信，串口�
 
 #### Arduino 程序下载与库安装
 
-1. 下载并解压[示例程序](example_ai_voice_assistant.zip ":ignore")，用 Arduino IDE 打开示例文件
+1. 下载并解压[示例程序](zh-cn/ph2.0_sensors/smart_module/ai_voice_assistant/example_ai_voice_assistant.zip ":ignore")，用 Arduino IDE 打开示例文件
 2. 主板选择 **Arduino Uno**
 3. 本程序使用了 `Servo.h`（舵机库）和 `SoftwareSerial.h`（软件串口库），二者均为 Arduino IDE **自带的官方库**，无需额外安装
 
